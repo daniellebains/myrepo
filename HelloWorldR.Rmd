@@ -2,7 +2,8 @@
 title: "Hello World"
 author: "Danielle Bains"
 date: "15/07/2020"
-output: html_document
+output: 
+  html_document: github_document
 ---
 
 ```{r setup, include=FALSE}
